@@ -1,10 +1,8 @@
-# soul-team
+# Soul Team Plugin
 
-//Install soul-team.zip file plugin manually or by uploading from plugin add new .
-//Add Team with 
-//Use shortcode like [Display team='66']
-
-/*
+Install soul-team.zip file plugin manually or by uploading from plugin add new .
+Add Team with 
+Use shortcode like [Display team='66']
 
 Task Details:
 ------------
@@ -42,6 +40,3 @@ Create one short code team wise :
 
 Like : [Display team='5' ]
  or [Display team='India' ]
-
-
-*/
